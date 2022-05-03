@@ -1,0 +1,10 @@
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\bin\Debug\将棋アプリ.exe.config
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\bin\Debug\将棋アプリ.exe
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\bin\Debug\将棋アプリ.pdb
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\bin\Debug\将棋アプリ.xml
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.vbprojAssemblyReference.cache
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.Resources.resources
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.vbproj.GenerateResource.cache
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.exe
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.xml
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\将棋アプリ\obj\Debug\将棋アプリ.pdb

@@ -1,0 +1,12 @@
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\bin\Debug\予定管理アプリ.exe.config
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\bin\Debug\予定管理アプリ.exe
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\bin\Debug\予定管理アプリ.pdb
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\bin\Debug\予定管理アプリ.xml
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.vbprojAssemblyReference.cache
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.Form1.resources
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.Resources.resources
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.vbproj.GenerateResource.cache
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.vbproj.CoreCompileInputs.cache
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.exe
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.xml
+C:\Users\youki\Documents\02_LearningSpace\01_VisualBasic\予定管理アプリ\obj\Debug\予定管理アプリ.pdb

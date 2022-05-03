@@ -1,0 +1,4 @@
+W:\04_LearningSpace\01_VisualBasic\0０_写径\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\0０_写径\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form1.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.GenerateResource.cache

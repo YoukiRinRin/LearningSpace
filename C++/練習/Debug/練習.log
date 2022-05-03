@@ -1,0 +1,5 @@
+﻿  練習.cpp
+W:\04_LearningSpace\C++\練習\練習.cpp(37): warning C4537: 'b': '.' は UDT でないタイプに適用されます。
+W:\04_LearningSpace\C++\練習\練習.cpp(32): message : 'b' の宣言を確認してください
+W:\04_LearningSpace\C++\練習\練習.cpp(37,1): error C2411: 'eax': 'オペランド 1' に無効な構造体または共用体のメンバーがあります。
+W:\04_LearningSpace\C++\練習\練習.cpp(37,1): error C2414: オペランドの数が正しくありません。

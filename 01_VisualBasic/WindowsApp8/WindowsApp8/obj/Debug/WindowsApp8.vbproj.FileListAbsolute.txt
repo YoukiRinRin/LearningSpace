@@ -1,0 +1,11 @@
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+W:\04_LearningSpace\01_VisualBasic\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb

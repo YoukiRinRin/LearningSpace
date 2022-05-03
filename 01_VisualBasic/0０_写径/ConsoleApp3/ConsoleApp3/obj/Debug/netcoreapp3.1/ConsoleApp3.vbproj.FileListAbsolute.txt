@@ -1,0 +1,11 @@
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.vb
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+W:\04_LearningSpace\01_VisualBasic\0０_写径\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb

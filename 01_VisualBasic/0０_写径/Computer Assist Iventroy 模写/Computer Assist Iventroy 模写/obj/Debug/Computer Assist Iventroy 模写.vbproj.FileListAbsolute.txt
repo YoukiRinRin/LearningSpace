@@ -1,0 +1,4 @@
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Computer Assist Iventroy 模写\Computer Assist Iventroy 模写\obj\Debug\Computer Assist Iventroy 模写.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Computer Assist Iventroy 模写\Computer Assist Iventroy 模写\obj\Debug\Computer_Assist_Iventroy_模写.Form1.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Computer Assist Iventroy 模写\Computer Assist Iventroy 模写\obj\Debug\Computer_Assist_Iventroy_模写.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Computer Assist Iventroy 模写\Computer Assist Iventroy 模写\obj\Debug\Computer Assist Iventroy 模写.vbproj.GenerateResource.cache

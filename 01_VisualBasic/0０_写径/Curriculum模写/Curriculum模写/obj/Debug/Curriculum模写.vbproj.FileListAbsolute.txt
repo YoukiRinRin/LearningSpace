@@ -1,0 +1,7 @@
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.drmCourse.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.Form1.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.frmPreRequisite.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.frmStudent.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\0０_写径\Curriculum模写\Curriculum模写\obj\Debug\Curriculum模写.vbproj.GenerateResource.cache

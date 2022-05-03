@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "うるう年判定", "うるう年判定\うるう年判定.vbproj", "{864BDF50-5B45-4FC0-815E-23D4D3F1FD30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864BDF50-5B45-4FC0-815E-23D4D3F1FD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864BDF50-5B45-4FC0-815E-23D4D3F1FD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864BDF50-5B45-4FC0-815E-23D4D3F1FD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864BDF50-5B45-4FC0-815E-23D4D3F1FD30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7330A63B-AECE-44A7-82CB-A1DBD20E310B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PCの情報調べるくん/1.0.0": {
+        "runtime": {
+          "PCの情報調べるくん.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCの情報調べるくん/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
