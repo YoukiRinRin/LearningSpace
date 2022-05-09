@@ -1,9 +1,0 @@
-﻿  シューティング.cpp
-W:\04_LearningSpace\C++\シューティング\シューティング.cpp(103,1): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 'sscanf' の宣言を確認してください
-W:\04_LearningSpace\C++\シューティング\シューティング.cpp(109,1): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 'sscanf' の宣言を確認してください
-W:\04_LearningSpace\C++\シューティング\シューティング.cpp(295,1): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 'sscanf' の宣言を確認してください
-W:\04_LearningSpace\C++\シューティング\シューティング.cpp(301,1): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 'sscanf' の宣言を確認してください

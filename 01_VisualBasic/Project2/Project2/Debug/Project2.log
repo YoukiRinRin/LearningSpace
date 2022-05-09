@@ -1,8 +1,0 @@
-﻿  Source.cpp
-W:\04_LearningSpace\01_VisualBasic\Project2\Project2\Source.cpp(94,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
-W:\04_LearningSpace\01_VisualBasic\Project2\Project2\Source.cpp(140,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' の宣言を確認してください
-W:\04_LearningSpace\01_VisualBasic\Project2\Project2\Source.cpp(142,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' の宣言を確認してください
-W:\04_LearningSpace\01_VisualBasic\Project2\Project2\Source.cpp(144,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' の宣言を確認してください

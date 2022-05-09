@@ -1,9 +1,0 @@
-W:\04_LearningSpace\C++\帳簿作成アプリ\bin\Debug\帳簿作成アプリ.exe.config
-W:\04_LearningSpace\C++\帳簿作成アプリ\bin\Debug\帳簿作成アプリ.exe
-W:\04_LearningSpace\C++\帳簿作成アプリ\bin\Debug\帳簿作成アプリ.pdb
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.csprojAssemblyReference.cache
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.Form1.resources
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.Properties.Resources.resources
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.csproj.GenerateResource.cache
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.exe
-W:\04_LearningSpace\C++\帳簿作成アプリ\obj\Debug\帳簿作成アプリ.pdb

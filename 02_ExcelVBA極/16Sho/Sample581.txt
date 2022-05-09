@@ -1,4 +1,0 @@
-'挿入するコード
-Sub ImportSample()
-    MsgBox "テキストファイルからインポートされた"
-End Sub

@@ -1,9 +1,0 @@
-W:\04_LearningSpace\C#\ああ\bin\Debug\ああ.exe.config
-W:\04_LearningSpace\C#\ああ\bin\Debug\ああ.exe
-W:\04_LearningSpace\C#\ああ\bin\Debug\ああ.pdb
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.csprojAssemblyReference.cache
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.Form1.resources
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.Properties.Resources.resources
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.csproj.GenerateResource.cache
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.exe
-W:\04_LearningSpace\C#\ああ\obj\Debug\ああ.pdb
