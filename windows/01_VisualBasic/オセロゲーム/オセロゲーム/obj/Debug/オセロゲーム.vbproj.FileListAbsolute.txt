@@ -1,0 +1,10 @@
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\bin\Debug\オセロゲーム.exe.config
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\bin\Debug\オセロゲーム.exe
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\bin\Debug\オセロゲーム.pdb
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\bin\Debug\オセロゲーム.xml
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.vbproj.GenerateResource.cache
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.exe
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.xml
+W:\04_LearningSpace\01_VisualBasic\オセロゲーム\オセロゲーム\obj\Debug\オセロゲーム.pdb

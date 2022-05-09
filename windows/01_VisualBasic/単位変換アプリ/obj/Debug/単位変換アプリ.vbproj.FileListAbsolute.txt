@@ -1,0 +1,12 @@
+C:\Users\youki\source\repos\単位変換アプリ\bin\Debug\単位変換アプリ.exe.config
+C:\Users\youki\source\repos\単位変換アプリ\bin\Debug\単位変換アプリ.exe
+C:\Users\youki\source\repos\単位変換アプリ\bin\Debug\単位変換アプリ.pdb
+C:\Users\youki\source\repos\単位変換アプリ\bin\Debug\単位変換アプリ.xml
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.vbprojAssemblyReference.cache
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.Form1.resources
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.Resources.resources
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.vbproj.GenerateResource.cache
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.vbproj.CoreCompileInputs.cache
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.exe
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.xml
+C:\Users\youki\source\repos\単位変換アプリ\obj\Debug\単位変換アプリ.pdb

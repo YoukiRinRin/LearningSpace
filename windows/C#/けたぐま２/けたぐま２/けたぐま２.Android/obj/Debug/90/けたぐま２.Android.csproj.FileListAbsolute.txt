@@ -1,0 +1,9 @@
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\build.props
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\adb.props
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\けたぐま２.Android.csprojAssemblyReference.cache
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\resourcepaths.cache
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\resourcecache.stamp
+W:\04_LearningSpace\C#\けたぐま２\けたぐま２\けたぐま２.Android\obj\Debug\90\res.flag

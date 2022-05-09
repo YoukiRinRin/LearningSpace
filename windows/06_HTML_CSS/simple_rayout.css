@@ -1,0 +1,21 @@
+.wrapper{
+    width:100%;
+}
+
+.wrapper .container{
+    max-width:1000px;
+    margin:0px autp;
+    padding:10px 0px;
+}
+
+.wrapper.content{
+    padding:50px;
+    text-align:center;
+}
+
+.wrapper.content.heading{
+    margin:0px 0px 40px 0px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}

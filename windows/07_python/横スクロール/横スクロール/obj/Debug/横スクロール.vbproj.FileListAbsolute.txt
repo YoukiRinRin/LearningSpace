@@ -1,0 +1,10 @@
+W:\04_LearningSpace\python\横スクロール\横スクロール\bin\Debug\横スクロール.exe.config
+W:\04_LearningSpace\python\横スクロール\横スクロール\bin\Debug\横スクロール.exe
+W:\04_LearningSpace\python\横スクロール\横スクロール\bin\Debug\横スクロール.pdb
+W:\04_LearningSpace\python\横スクロール\横スクロール\bin\Debug\横スクロール.xml
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.vbprojAssemblyReference.cache
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.Resources.resources
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.vbproj.GenerateResource.cache
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.exe
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.xml
+W:\04_LearningSpace\python\横スクロール\横スクロール\obj\Debug\横スクロール.pdb

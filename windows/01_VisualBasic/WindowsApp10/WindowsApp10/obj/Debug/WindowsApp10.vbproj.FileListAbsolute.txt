@@ -1,0 +1,11 @@
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+W:\04_LearningSpace\01_VisualBasic\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb

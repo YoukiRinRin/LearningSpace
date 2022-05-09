@@ -1,0 +1,5 @@
+C:\Users\youki\source\repos\じゃんけんゲーム\obj\Debug\WindowsApp106.vbprojAssemblyReference.cache
+C:\Users\youki\source\repos\じゃんけんゲーム\obj\Debug\WindowsApp106.Form1.resources
+C:\Users\youki\source\repos\じゃんけんゲーム\obj\Debug\WindowsApp106.Resources.resources
+C:\Users\youki\source\repos\じゃんけんゲーム\obj\Debug\WindowsApp106.vbproj.GenerateResource.cache
+C:\Users\youki\source\repos\じゃんけんゲーム\obj\Debug\WindowsApp106.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+W:\04_LearningSpace\C#\拡張子変換アプリ\bin\Debug\拡張子変換アプリ.exe.config
+W:\04_LearningSpace\C#\拡張子変換アプリ\bin\Debug\拡張子変換アプリ.exe
+W:\04_LearningSpace\C#\拡張子変換アプリ\bin\Debug\拡張子変換アプリ.pdb
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.csprojAssemblyReference.cache
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.拡張子変換アプリ.resources
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.Properties.Resources.resources
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.csproj.GenerateResource.cache
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.exe
+W:\04_LearningSpace\C#\拡張子変換アプリ\obj\Debug\拡張子変換アプリ.pdb

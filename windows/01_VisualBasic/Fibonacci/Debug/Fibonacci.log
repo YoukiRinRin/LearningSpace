@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  Fibonacci.cpp
+c:\users\youki\documents\02_learningspace\01_visualbasic\fibonacci\fibonacci.cpp(19): error C2143: 構文エラー: ';' が '}' の前にありません。
