@@ -185,10 +185,55 @@ def main():
     card_10_y_str = card_1_y_str
     card_10_y_fin = card_1_y_fin
 
-    card_11_x_str = card_1_x_fin
-    card_11_x_fin = card_1_x_str 
+    card_11_x_str = card_1_x_str
+    card_11_x_fin = card_1_x_fin
     card_11_y_str = card_1_y_str + distance + size_image_h
     card_11_y_fin = card_1_y_fin + distance + size_image_h
+
+    card_12_x_str = card_2_x_str
+    card_12_x_fin = card_2_x_fin
+    card_12_y_str = card_2_y_str + distance + size_image_h
+    card_12_y_fin = card_2_y_fin + distance + size_image_h
+
+    card_13_x_str = card_3_x_str
+    card_13_x_fin = card_3_x_fin
+    card_13_y_str = card_3_y_str + distance + size_image_h
+    card_13_y_fin = card_3_y_fin + distance + size_image_h
+
+    card_14_x_str = card_4_x_str
+    card_14_x_fin = card_4_x_fin
+    card_14_y_str = card_4_y_str + distance + size_image_h
+    card_14_y_fin = card_4_y_fin + distance + size_image_h
+
+    card_15_x_str = card_5_x_str
+    card_15_x_fin = card_5_x_fin
+    card_15_y_str = card_5_y_str + distance + size_image_h
+    card_15_y_fin = card_5_y_fin + distance + size_image_h
+
+    card_16_x_str = card_6_x_str
+    card_16_x_fin = card_6_x_fin
+    card_16_y_str = card_6_y_str + distance + size_image_h
+    card_16_y_fin = card_6_y_fin + distance + size_image_h
+
+    card_17_x_str = card_7_x_str
+    card_17_x_fin = card_7_x_fin
+    card_17_y_str = card_7_y_str + distance + size_image_h
+    card_17_y_fin = card_7_y_fin + distance + size_image_h
+
+    card_18_x_str = card_8_x_str
+    card_18_x_fin = card_8_x_fin
+    card_18_y_str = card_8_y_str + distance + size_image_h
+    card_18_y_fin = card_8_y_fin + distance + size_image_h
+
+    card_19_x_str = card_9_x_str
+    card_19_x_fin = card_9_x_fin
+    card_19_y_str = card_9_y_str + distance + size_image_h
+    card_19_y_fin = card_9_y_fin + distance + size_image_h
+
+    card_20_x_str = card_10_x_str
+    card_20_x_fin = card_10_x_fin
+    card_20_y_str = card_10_y_str + distance + size_image_h
+    card_20_y_fin = card_10_y_fin + distance + size_image_h
 
 
 
@@ -282,27 +327,48 @@ def main():
             if event.type == MOUSEBUTTONDOWN and event.button == 1:
                 x,y = event.pos
                 if x > card_1_x_str and x < card_1_x_fin and y > card_1_y_str and y < card_1_y_fin:
-                    print("a")
+                    print("1")
                 elif x > card_2_x_str and x < card_2_x_fin and y > card_2_y_str and y < card_2_y_fin:
-                    print("b")
+                    print("2")
                 elif x > card_3_x_str and x < card_3_x_fin and y > card_3_y_str and y < card_3_y_fin:
-                    print("c")
+                    print("3")
                 elif x > card_4_x_str and x < card_4_x_fin and y > card_4_y_str and y < card_4_y_fin:
-                    print("d")
+                    print("4")
                 elif x > card_5_x_str and x < card_5_x_fin and y > card_5_y_str and y < card_5_y_fin:
-                    print("e")
+                    print("5")
                 elif x > card_6_x_str and x < card_6_x_fin and y > card_6_y_str and y < card_6_y_fin:
-                    print("f")
+                    print("6")
                 elif x > card_7_x_str and x < card_7_x_fin and y > card_7_y_str and y < card_7_y_fin:
-                    print("g")
+                    print("7")
                 elif x > card_8_x_str and x < card_8_x_fin and y > card_8_y_str and y < card_8_y_fin:
-                    print("h")
+                    print("8")
                 elif x > card_9_x_str and x < card_9_x_fin and y > card_9_y_str and y < card_9_y_fin:
-                    print("i")
+                    print("9")
                 elif x > card_10_x_str and x < card_10_x_fin and y > card_10_y_str and y < card_10_y_fin:
-                    print("j")
+                    print("10")
                 elif x > card_11_x_str and x < card_11_x_fin and y > card_11_y_str and y < card_11_y_fin:
-                    print("k")
+                    print("11")
+                elif x > card_12_x_str and x < card_12_x_fin and y > card_12_y_str and y < card_12_y_fin:
+                    print("12")
+                elif x > card_13_x_str and x < card_13_x_fin and y > card_13_y_str and y < card_13_y_fin:
+                    print("13")
+                elif x > card_14_x_str and x < card_14_x_fin and y > card_14_y_str and y < card_14_y_fin:
+                    print("14")
+                elif x > card_15_x_str and x < card_15_x_fin and y > card_15_y_str and y < card_15_y_fin:
+                    print("15")
+                elif x > card_16_x_str and x < card_16_x_fin and y > card_16_y_str and y < card_16_y_fin:
+                    print("16")
+                elif x > card_17_x_str and x < card_17_x_fin and y > card_17_y_str and y < card_17_y_fin:
+                    print("17")
+                elif x > card_18_x_str and x < card_18_x_fin and y > card_18_y_str and y < card_18_y_fin:
+                    print("18")
+                elif x > card_19_x_str and x < card_19_x_fin and y > card_19_y_str and y < card_19_y_fin:
+                    print("19")
+                elif x > card_20_x_str and x < card_20_x_fin and y > card_20_y_str and y < card_20_y_fin:
+                    print("20")
+               
+               
+               
                 else:
                     print("else")
 
