@@ -385,6 +385,17 @@ def main():
     card_50_y_str = card_40_y_str + distance + size_image_h
     card_50_y_fin = card_40_y_fin + distance + size_image_h
 
+    
+    player1_sele_1 = 0
+    player1_sele_2 = 0
+
+    player2_sele_1 = 0
+    player2_sele_2 = 0
+
+    turn = 0
+
+    score_player_1 = 0
+    score_player_2 = 0
 
 
 
@@ -871,7 +882,7 @@ def main():
         return pos_str_x,pos_str_y
 
 
-        
+
 
 
     while (1):
@@ -1060,10 +1071,6 @@ def main():
                 elif x > card_50_x_str and x < card_50_x_fin and y > card_50_y_str and y < card_50_y_fin:
                     print("50")
                     table[49] = 1
-                
-               
-                
-               
                 else:
                     print("else")
 
