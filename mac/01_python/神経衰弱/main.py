@@ -397,6 +397,8 @@ def main():
     score_player_1 = 0
     score_player_2 = 0
 
+    phase = 0
+
 
 
 
@@ -881,11 +883,13 @@ def main():
         
         return pos_str_x,pos_str_y
 
-
+    
 
 
 
     while (1):
+
+
         screen.fill((0,0,0))        # 画面を黒色(#000000)に塗りつぶし
         x = 20
         y = 20
@@ -907,10 +911,6 @@ def main():
             x = 20
             y += size_image_h + distance
     
-
-
-        
-
      
         pygame.display.update()     # 画面を更新
         # イベント処理
@@ -1073,10 +1073,27 @@ def main():
                     table[49] = 1
                 else:
                     print("else")
-
                 
 
                 pygame.display.update()     # 画面を更新
+        if turn == 1:
+            turn = 2
+        elif turn == 2:
+            turn = 1
+
+        if player1_sele_1 == player1_sele_2:
+            score_player_1 += 1
+
+        if player2_sele_2 == player2_sele_1:
+            score_player_2 += 1
+
+        if phase == 1:
+            phase += 1
+        elif phase == 2:
+            phase = 0
+        
+
+        
 
 
 if __name__ == "__main__":
