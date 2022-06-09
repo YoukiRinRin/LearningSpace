@@ -4,7 +4,18 @@ import sys
 import os
 import random
 
+player1_sele_1 = 0
+player1_sele_2 = 0
+
+player2_sele_1 = 0
+player2_sele_2 = 0
+turn = 0
+score_player_1 = 0
+score_player_2 = 0
+phase = 0
+
 def main():
+    pygame.init()
 
     abs_path = os.path.dirname(os.path.abspath(__file__))
 
@@ -386,18 +397,9 @@ def main():
     card_50_y_fin = card_40_y_fin + distance + size_image_h
 
     
-    player1_sele_1 = 0
-    player1_sele_2 = 0
-
-    player2_sele_1 = 0
-    player2_sele_2 = 0
-
-    turn = 0
-
-    score_player_1 = 0
-    score_player_2 = 0
-
-    phase = 0
+    
+    
+    font = pygame.font.Font(None, 50)
 
 
 
@@ -470,7 +472,7 @@ def main():
     screen = pygame.display.set_mode((1250, 750))    # 大きさ400*300の画面を生成
     pygame.display.set_caption("神経衰弱")              # タイトルバーに表示する文字
 
-    table = [0,0,0,0,0,0,0,0,0,0,
+    table = [2,0,0,0,2,0,0,0,0,0,
                  0,0,0,0,0,0,0,0,0,0,
                  0,0,0,0,0,0,0,0,0,0,
                  0,0,0,0,0,0,0,0,0,0,
@@ -882,7 +884,29 @@ def main():
         
         
         return pos_str_x,pos_str_y
+    
+    def click_card(card_num,turn,phase):
+        num = card_num
+        get_turn = turn
+        get_phase = phase
+        
 
+        if table[num] == 0:
+            table[num] = 1
+        
+        if turn == 1:
+            if phase == 1:
+                player1_sele_1 = table_card[num]
+            elif phase == 2:
+                player1_sele_2 = table_card[num]
+        elif turn == 2:
+            if phase == 1:
+                player2_sele_1 = table_card[num]
+            elif phase == 2:
+                player2_sele_2 = table_card[num]
+        
+        print("選択したカードは",table_card[num])
+        
     
 
 
@@ -903,13 +927,25 @@ def main():
                     img = get_card(table_card[table_now])
                     pos = get_pos(table_now)
                     a = get_num_card(table_card[table_now])
-                    print(a)
+                    
                     screen.blit(img, pos)
+                elif table[table_now] == 2:
+                    a = "a"
                     
                 x += size_image_w + distance
                 
             x = 20
             y += size_image_h + distance
+
+            pygame.draw.rect(screen,(0,80,0),Rect(1000,10,100,100),5)
+            
+
+
+
+
+
+
+            
     
      
         pygame.display.update()     # 画面を更新
@@ -923,175 +959,193 @@ def main():
                 x,y = event.pos
                 if x > card_1_x_str and x < card_1_x_fin and y > card_1_y_str and y < card_1_y_fin:
                     print("1")
-                    table[0] = 1
+                    click_card(0,turn,phase)
                 elif x > card_2_x_str and x < card_2_x_fin and y > card_2_y_str and y < card_2_y_fin:
                     print("2")
-                    table[1] = 1
+                    click_card(1,turn,phase)
                 elif x > card_3_x_str and x < card_3_x_fin and y > card_3_y_str and y < card_3_y_fin:
                     print("3")
-                    table[2] = 1
+                    click_card(2,turn,phase)
                 elif x > card_4_x_str and x < card_4_x_fin and y > card_4_y_str and y < card_4_y_fin:
                     print("4")
-                    table[3] = 1
+                    click_card(3,turn,phase)
                 elif x > card_5_x_str and x < card_5_x_fin and y > card_5_y_str and y < card_5_y_fin:
                     print("5")
-                    table[4] = 1
+                    click_card(4,turn,phase)
                 elif x > card_6_x_str and x < card_6_x_fin and y > card_6_y_str and y < card_6_y_fin:
                     print("6")
-                    table[5] = 1
+                    click_card(5,turn,phase)
                 elif x > card_7_x_str and x < card_7_x_fin and y > card_7_y_str and y < card_7_y_fin:
                     print("7")
-                    table[6] = 1
+                    click_card(6,turn,phase)
                 elif x > card_8_x_str and x < card_8_x_fin and y > card_8_y_str and y < card_8_y_fin:
                     print("8")
-                    table[7] = 1
+                    click_card(7,turn,phase)
                 elif x > card_9_x_str and x < card_9_x_fin and y > card_9_y_str and y < card_9_y_fin:
                     print("9")
-                    table[8] = 1
+                    click_card(8,turn,phase)
                 elif x > card_10_x_str and x < card_10_x_fin and y > card_10_y_str and y < card_10_y_fin:
                     print("10")
-                    table[9] = 1
+                    click_card(9,turn,phase)
                 elif x > card_11_x_str and x < card_11_x_fin and y > card_11_y_str and y < card_11_y_fin:
                     print("11")
-                    table[10] = 1
+                    click_card(10,turn,phase)
                 elif x > card_12_x_str and x < card_12_x_fin and y > card_12_y_str and y < card_12_y_fin:
                     print("12")
-                    table[11] = 1
+                    click_card(11,turn,phase)
                 elif x > card_13_x_str and x < card_13_x_fin and y > card_13_y_str and y < card_13_y_fin:
                     print("13")
-                    table[12] = 1
+                    click_card(12,turn,phase)
                 elif x > card_14_x_str and x < card_14_x_fin and y > card_14_y_str and y < card_14_y_fin:
                     print("14")
-                    table[13] = 1
+                    click_card(13,turn,phase)                
                 elif x > card_15_x_str and x < card_15_x_fin and y > card_15_y_str and y < card_15_y_fin:
                     print("15")
-                    table[14] = 1
+                    click_card(14,turn,phase)
                 elif x > card_16_x_str and x < card_16_x_fin and y > card_16_y_str and y < card_16_y_fin:
                     print("16")
-                    table[15] = 1
+                    click_card(15,turn,phase)
                 elif x > card_17_x_str and x < card_17_x_fin and y > card_17_y_str and y < card_17_y_fin:
                     print("17")
-                    table[16] = 1
+                    click_card(16,turn,phase)
                 elif x > card_18_x_str and x < card_18_x_fin and y > card_18_y_str and y < card_18_y_fin:
                     print("18")
-                    table[17] = 1
+                    click_card(17,turn,phase)
                 elif x > card_19_x_str and x < card_19_x_fin and y > card_19_y_str and y < card_19_y_fin:
                     print("19")
-                    table[18] = 1
+                    click_card(18,turn,phase)
                 elif x > card_20_x_str and x < card_20_x_fin and y > card_20_y_str and y < card_20_y_fin:
                     print("20")
-                    table[19] = 1
+                    click_card(19,turn,phase)
                 elif x > card_21_x_str and x < card_21_x_fin and y > card_21_y_str and y < card_21_y_fin:
                     print("21")
-                    table[20] = 1
+                    click_card(20,turn,phase)
                 elif x > card_22_x_str and x < card_22_x_fin and y > card_22_y_str and y < card_22_y_fin:
                     print("22")
-                    table[21] = 1
+                    click_card(21,turn,phase)
                 elif x > card_23_x_str and x < card_23_x_fin and y > card_23_y_str and y < card_23_y_fin:
                     print("23")
-                    table[22] = 1
+                    click_card(22,turn,phase)
                 elif x > card_24_x_str and x < card_24_x_fin and y > card_24_y_str and y < card_24_y_fin:
                     print("24")
-                    table[23] = 1
+                    click_card(23,turn,phase)
                 elif x > card_25_x_str and x < card_25_x_fin and y > card_25_y_str and y < card_25_y_fin:
                     print("25")
-                    table[24] = 1
+                    click_card(24,turn,phase)
                 elif x > card_26_x_str and x < card_26_x_fin and y > card_26_y_str and y < card_26_y_fin:
                     print("26")
-                    table[25] = 1
+                    click_card(25,turn,phase)
                 elif x > card_27_x_str and x < card_27_x_fin and y > card_27_y_str and y < card_27_y_fin:
                     print("27")
-                    table[26] = 1
+                    click_card(26,turn,phase)
                 elif x > card_28_x_str and x < card_28_x_fin and y > card_28_y_str and y < card_28_y_fin:
                     print("28")
-                    table[27] = 1
+                    click_card(27,turn,phase)
                 elif x > card_29_x_str and x < card_29_x_fin and y > card_29_y_str and y < card_29_y_fin:
                     print("29")
-                    table[28] = 1
+                    click_card(28,turn,phase)
                 elif x > card_30_x_str and x < card_30_x_fin and y > card_30_y_str and y < card_30_y_fin:
                     print("30")
-                    table[29] = 1
+                    click_card(29,turn,phase)
                 elif x > card_31_x_str and x < card_31_x_fin and y > card_31_y_str and y < card_31_y_fin:
                     print("31")
-                    table[30] = 1
+                    click_card(30,turn,phase)
                 elif x > card_32_x_str and x < card_32_x_fin and y > card_32_y_str and y < card_32_y_fin:
                     print("32")
-                    table[31] = 1
+                    click_card(31,turn,phase)
                 elif x > card_33_x_str and x < card_33_x_fin and y > card_33_y_str and y < card_33_y_fin:
                     print("33")
-                    table[32] = 1
+                    click_card(32,turn,phase)
                 elif x > card_34_x_str and x < card_34_x_fin and y > card_34_y_str and y < card_34_y_fin:
                     print("34")
-                    table[33] = 1
+                    click_card(33,turn,phase)
                 elif x > card_35_x_str and x < card_35_x_fin and y > card_35_y_str and y < card_35_y_fin:
                     print("35")
-                    table[34] = 1
+                    click_card(34,turn,phase)
                 elif x > card_36_x_str and x < card_36_x_fin and y > card_36_y_str and y < card_36_y_fin:
                     print("36")
-                    table[35] = 1
+                    click_card(35,turn,phase)
                 elif x > card_37_x_str and x < card_37_x_fin and y > card_37_y_str and y < card_37_y_fin:
                     print("37")
-                    table[36] = 1
+                    click_card(36)
                 elif x > card_38_x_str and x < card_38_x_fin and y > card_38_y_str and y < card_38_y_fin:
                     print("38")
-                    table[37] = 1
+                    click_card(37,turn,phase)
                 elif x > card_39_x_str and x < card_39_x_fin and y > card_39_y_str and y < card_39_y_fin:
                     print("39")
-                    table[38] = 1
+                    click_card(38,turn,phase)
                 elif x > card_40_x_str and x < card_40_x_fin and y > card_40_y_str and y < card_40_y_fin:
                     print("40")
-                    table[39] = 1
+                    click_card(39,turn,phase)
                 elif x > card_41_x_str and x < card_41_x_fin and y > card_41_y_str and y < card_41_y_fin:
                     print("41")
-                    table[40] = 1
+                    click_card(40,turn,phase)
                 elif x > card_42_x_str and x < card_42_x_fin and y > card_42_y_str and y < card_42_y_fin:
                     print("42")
-                    table[41] = 1
+                    click_card(41,turn,phase)
                 elif x > card_43_x_str and x < card_43_x_fin and y > card_43_y_str and y < card_43_y_fin:
                     print("43")
-                    table[42] = 1
+                    click_card(42,turn,phase)
                 elif x > card_44_x_str and x < card_44_x_fin and y > card_44_y_str and y < card_44_y_fin:
                     print("44")
-                    table[43] = 1
+                    click_card(43,turn,phase)
                 elif x > card_45_x_str and x < card_45_x_fin and y > card_45_y_str and y < card_45_y_fin:
                     print("45")
-                    table[44] = 1
+                    click_card(44,turn,phase)
                 elif x > card_46_x_str and x < card_46_x_fin and y > card_46_y_str and y < card_46_y_fin:
                     print("46")
-                    table[45] = 1
+                    click_card(45,turn,phase)
                 elif x > card_47_x_str and x < card_47_x_fin and y > card_47_y_str and y < card_47_y_fin:
                     print("47")
-                    table[46] = 1
+                    click_card(46,turn,phase)
                 elif x > card_48_x_str and x < card_48_x_fin and y > card_48_y_str and y < card_48_y_fin:
                     print("48")
-                    table[47] = 1
+                    click_card(47,turn,phase)
                 elif x > card_49_x_str and x < card_49_x_fin and y > card_49_y_str and y < card_49_y_fin:
                     print("49")
-                    table[48] = 1
+                    click_card(48,turn,phase)
                 elif x > card_50_x_str and x < card_50_x_fin and y > card_50_y_str and y < card_50_y_fin:
                     print("50")
-                    table[49] = 1
+                    click_card(49,turn,phase)
                 else:
                     print("else")
+
+                
+        
+        text = font.render(str(player1_sele_1), True, (255,255,255))   # 描画する文字列の設定
+        print(player1_sele_1)
+        screen.blit(text, [1000, 20])# 文字列の表示位置on
                 
 
-                pygame.display.update()     # 画面を更新
+        pygame.display.update()     # 画面を更新
+
+        """
         if turn == 1:
             turn = 2
         elif turn == 2:
             turn = 1
+        """
 
         if player1_sele_1 == player1_sele_2:
             score_player_1 += 1
+            table[player1_sele_1] = 2
+            table[player1_sele_2] = 2
 
         if player2_sele_2 == player2_sele_1:
             score_player_2 += 1
+            table[player2_sele_1] = 2
+            table[player2_sele_2] = 2
+
 
         if phase == 1:
             phase += 1
         elif phase == 2:
             phase = 0
         
+        
+        
+        pygame.display.update()
+    print(player1_sele_1)
 
         
 
