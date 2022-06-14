@@ -4,18 +4,23 @@ import sys
 import os
 import random
 
-player1_sele_1 = 0
-player1_sele_2 = 0
 
-player2_sele_1 = 0
-player2_sele_2 = 0
-turn = 0
-score_player_1 = 0
-score_player_2 = 0
-phase = 0
 
 def main():
     pygame.init()
+
+    player1_sele_1 = 0
+    player1_sele_2 = 0
+
+    player2_sele_1 = 0
+    player2_sele_2 = 0
+    turn = 1
+    score_player_1 = 0
+    score_player_2 = 0
+    phase = 1
+
+
+    
 
     abs_path = os.path.dirname(os.path.abspath(__file__))
 
@@ -889,15 +894,24 @@ def main():
         num = card_num
         get_turn = turn
         get_phase = phase
+
+        global player1_sele_1
+        global player1_sele_2
+        global player2_sele_1
+        global player2_sele_2
+
+        print(num,get_turn,get_phase)
         
 
         if table[num] == 0:
             table[num] = 1
         
-        if turn == 1:
+        if get_turn == 1:
             if phase == 1:
                 player1_sele_1 = table_card[num]
-            elif phase == 2:
+                print('text is',player1_sele_1)
+                print('うんこ')
+            elif get_phase == 2:
                 player1_sele_2 = table_card[num]
         elif turn == 2:
             if phase == 1:
@@ -1136,12 +1150,12 @@ def main():
             table[player2_sele_1] = 2
             table[player2_sele_2] = 2
 
-
+        """
         if phase == 1:
             phase += 1
         elif phase == 2:
             phase = 0
-        
+        """       
         
         
         pygame.display.update()
